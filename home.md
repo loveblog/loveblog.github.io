@@ -31,3 +31,7 @@
 
 [ > Config Guide ](/config)
 
+# Show
+
+[https://loveblog.github.io/loveblog-show/](https://loveblog.github.io/loveblog-show/)
+
