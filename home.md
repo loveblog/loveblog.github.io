@@ -10,8 +10,8 @@
 > Love blogs, love everyday!
 > 热爱博客，热爱每一天！
 > 
-> LanGong Love Blog is a blog system for [GitHub Page](https://pages.github.io) in Linux and MacOS
-> 蓝光 LoveBlog 是一个在GitHubPage上运行的静态博客系统，适用于 Linux 或 MacOS 操作系统。
+> LanGong Love Blog is a blog system for [GitHub Page](https://pages.github.io) in Linux and MacOS, and used Markdown
+> 蓝光 LoveBlog 是一个在GitHubPage上运行的静态博客系统，适用于 Linux 或 MacOS 操作系统并且使用Markdown语言
 
 # Runs in 运行
 
