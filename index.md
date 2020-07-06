@@ -16,4 +16,7 @@ Usage 使用 is creat in 2020/07/05, url-id is use
 Config 配置 is creat in 2020/07/05, url-id is config
 
 
-\n---\n\nPowered by [LanGong Love Blog](https://langong-dev.github.io/love-blog)
+---
+
+
+Powered by [LanGong Love Blog](https://langong-dev.github.io/love-blog)
