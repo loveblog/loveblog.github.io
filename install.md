@@ -22,6 +22,12 @@ You can also install without package-mamager
 
 ## Install 安装
 
+### [Only ArchLinux user]  [Testing]  Install with Pacman 使用Pacman安装
+
+1. Downloads `love-blog...` from release page 从版本页面下载pacman压缩包
+2. `sudo pacman -U loveblog...` (File name)
+3. Use `lb` to test 使用`lb`去测试安装结果
+
 ### Install with CDN 使用CDN进行安装
 
 ```bash
