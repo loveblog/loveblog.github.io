@@ -2,7 +2,7 @@
 
 Command list:
 
-`lb (OR 'bash main.sh') [Command]`
+`lb [Command]`
 
 |Command|Means|
 |:---:|:---:|
@@ -12,3 +12,6 @@ Command list:
 |urepo|Update your Blog from Github|
 |config|Config your blog|
 |update|Update Love Blog|
+|help|Get help|
+
+
